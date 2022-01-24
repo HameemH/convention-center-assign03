@@ -4,10 +4,20 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.con.convention-package{
+    position: absolute;
+}
+.convention-card3{
+    position: relative;
+    bottom: 30px;
+    border-radius: 30px;
+}
+
 .package-btn-color{
     background-color: whitesmoke;
     color: #3F87F5;
 }
+
  
 .convention-footer{
     background-color: #0B0D17;
